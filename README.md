@@ -90,6 +90,4 @@ Submit issues, feature requests, or pull requests via the GitHub repository.
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Let me know if you'd like a **diagram** or sample **Composer DAG** or **Dataflow template** to go along with this documentation.
